@@ -1,0 +1,18 @@
+
+.heading
+{
+	color:red;
+	font-size:40px;
+}
+
+
+.description
+{
+	color:white;
+	font-size:25px;
+	border-style:dotted;
+	border-left-style:solid;
+	border-color:red;
+	background-color:black;
+	padding:5px
+}
